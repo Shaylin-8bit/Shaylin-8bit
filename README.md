@@ -12,8 +12,7 @@ I currently do most of my work in:<br>
 <img alt="Javascript" src="./Js.png" width="50" />
 
 Though most of my experience is in back end,<br>
-I have some front end experience with the basics of:<br>
-<img alt="HTML" src="./Html.png" width="50" />
-<img alt="CSS" src="./Css.png" width="50" />
+I do have some basic front end experience with:<br>
+<img alt="HTML/CSS/JS" src="./Frontend.png" />
 
 Ephesians 5:10
