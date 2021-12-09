@@ -9,6 +9,6 @@ I currently have most of my knowledge in:<br>
 <img alt="C" src="./C_logo.svg" width="50" />
 <img alt="C++" src="./Cpp_logo.png" width="50" />
 <img alt="Python" src="./Python_logo.png" width="50" />
-<img alt="Javascript" src="./Node_logo.jpeg" width="50" />
+<img alt="Javascript" src="./Js_logo.png" width="50" />
 
 Ephesians 5:10
