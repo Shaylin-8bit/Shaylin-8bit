@@ -13,6 +13,6 @@ I currently do most of my work in:<br>
 
 Though most of my experience is in back end,<br>
 I do have some basic front end experience with:<br>
-<img alt="HTML/CSS/JS" src="./Frontend.png" />
+<img alt="HTML/CSS/JS" src="./Frontend.png" width="150"/>
 
 Ephesians 5:10
