@@ -13,6 +13,17 @@ I currently do most of my work in:<br>
 
 Though most of my experience is in back end,<br>
 I do have some basic front end experience with:<br>
-<img alt="HTML/CSS/JS" src="./Frontend.png" width="150"/>
+<img alt="HTML/CSS/JS" src="./Frontend.png" width="200"/>
 
-Ephesians 5:10
+---
+
+As a Moderator for the Codecademy community's discord, and a Super User on their <br> 
+Forums, you may find be bouncing around there, learning what I can and looking <br>
+for places to help.
+
+You can find me here on Github,<br>
+and <a href="https://replit.com/@ShaylinTRK" target="_blank"> here </a> on replit.
+
+---
+Proverbs 3:13 KJV
+> Happy is the man that findeth wisdom, and the man that getteth understanding.
