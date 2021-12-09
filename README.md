@@ -5,7 +5,7 @@ Texas ranch worker, computer programmer, martial artist, and occasional writer.
 I seek to learn and help others were I can along the way.
 
 ---
-I currently have most of my knowledge in:
-
+I currently have most of my knowledge in:<br>
+<img alt="Python" src="./" width="30" />
 
 Ephesians 5:10
