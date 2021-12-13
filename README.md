@@ -27,4 +27,4 @@ for places to help.
 You can find me here on Github,<br>
 and <a href="https://replit.com/@ShaylinTRK" target="_blank"> here </a> on replit.
 
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shaylin-trk&count_private=true&theme=tokyonight&showicons=true)]()
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shaylin-8bit&count_private=true&theme=tokyonight&showicons=true)]()
