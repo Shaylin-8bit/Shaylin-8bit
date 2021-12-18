@@ -25,6 +25,7 @@ Forums, you may find be bouncing around there, learning what I can and looking <
 for places to help.
 
 You can find me here on Github,<br>
-and <a href="https://replit.com/@ShaylinTRK" target="_blank"> here </a> on replit.
+and <a href="https://replit.com/@ShaylinTRK" target="_blank"> here </a> on replit.<br>
+Or feel free to shoot me an email at malakai.8bit@outlook.com
 
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shaylin-8bit&count_private=true&theme=tokyonight&showicons=true)]()
