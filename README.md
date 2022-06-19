@@ -20,9 +20,7 @@ I do have some basic front end experience with:<br>
 
 ---
 
-As a Moderator for the Codecademy community's discord, and a Super User on their <br> 
-Forums, you may find be bouncing around there, learning what I can and looking <br>
-for places to help.
+As a former moderator for the Codecademy community's discord, and an admin on the Project Nu forums, you may find be bouncing around there, learning what I can and looking for places to help others learn.
 
 You can find me here on Github,<br>
 and <a href="https://replit.com/@ShaylinTRK" target="_blank"> here </a> on replit.<br>
